@@ -1,0 +1,5 @@
+void insert_userName()  //사용자 이름을 저장한다
+{
+	printf("input your name: ");
+	scanf("%s", name );
+}
